@@ -25,6 +25,7 @@ I have a varied experience with exposure to:
 - frontend tools - Next.JS, React, Freemarker
 - backend tools - FastAPI, uvicorn, Ktor
 - orchestration tools - cron, Airflow
+- cloud - AWS (EKS, S3, RDS, ElastiCache, MongoDB Atlas), GCP (GCE, GCS) 
 
 I love technology and learning new tools.
 
